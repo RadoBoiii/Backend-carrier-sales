@@ -1,0 +1,9 @@
+:443 {
+  tls internal
+  encode gzip
+  reverse_proxy app:8080
+}
+
+:80 {
+  respond "OK" 200
+}

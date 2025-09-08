@@ -1,0 +1,33 @@
+[
+    {
+      "load_id": "L-1001",
+      "origin": "Chicago, IL",
+      "destination": "Dallas, TX",
+      "pickup_datetime": "2025-09-08T08:00:00-05:00",
+      "delivery_datetime": "2025-09-09T16:00:00-05:00",
+      "equipment_type": "Dry Van",
+      "loadboard_rate": 1450,
+      "notes": "No pallet exchange",
+      "weight": 30000,
+      "commodity_type": "Paper",
+      "num_of_pieces": 20,
+      "miles": 976,
+      "dimensions": "48x102"
+    },
+    {
+      "load_id": "L-1002",
+      "origin": "Atlanta, GA",
+      "destination": "Orlando, FL",
+      "pickup_datetime": "2025-09-08T07:00:00-05:00",
+      "delivery_datetime": "2025-09-08T17:00:00-05:00",
+      "equipment_type": "Reefer",
+      "loadboard_rate": 900,
+      "notes": "Keep at 36F",
+      "weight": 25000,
+      "commodity_type": "Produce",
+      "num_of_pieces": 12,
+      "miles": 438,
+      "dimensions": "53x102"
+    }
+  ]
+  
